@@ -1,6 +1,6 @@
 # NIM-App-AD-ResourceOwnerRecertification
 
-#Description
+# Description
 Resource Owners can recertify their employees access rights
 
 
